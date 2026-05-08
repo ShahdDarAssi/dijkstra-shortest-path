@@ -109,17 +109,6 @@ Total Travel Time: 14.00 minutes
 
 ---
 
-## Applications
-
-| Application | Use Case |
-|-------------|----------|
-| GPS Navigation | Find fastest or shortest route |
-| Emergency Routing | Route ambulances with minimum time |
-| Smart City Planning | Optimize urban traffic flow |
-| Delivery & Logistics | Minimize cost or delivery time |
-
----
-
 ## Conclusion
 
 This project demonstrates an **efficient and scalable** routing system using graph theory and Dijkstra's algorithm. By supporting multiple optimization criteria, it reflects real-world navigation requirements more accurately than traditional single-metric systems.
