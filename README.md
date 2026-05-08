@@ -119,7 +119,3 @@ The use of a **Priority Queue** ensures optimal performance even on large-scale 
 
 ## Author
 **Shahd Dar Assi**  
-
-<div align="center">
-  <sub>Built with ❤️ and Dijkstra's Algorithm</sub>
-</div>
